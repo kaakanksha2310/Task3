@@ -39,16 +39,11 @@ project-root/
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
 2. **Navigate to the project directory:**
-  
-Copy code
-cd your-repo-name
-Install dependencies:
-
-bash
-Copy code
-npm install
-Running the Application
-Start the server:
+   ```cd your-repo-name
+3. **Install dependencies:**
+   ```npm install
+4. **Running the Application:**
+   ```Start the server:
 
 bash
 Copy code
